@@ -106,8 +106,8 @@ IBRAHIM    OPEN
 
 Connection settings:
 
-* Username: ibrahim
-* Password: @Ibra7bi
+* Username: 
+* Password: 
 * Role: Default
 * Connection Type: Basic
 * Hostname: localhost
