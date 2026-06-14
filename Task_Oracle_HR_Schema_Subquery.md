@@ -1,8 +1,5 @@
 # HR Database Basic SQL Solutions
 
-Schema used from the photo: `EMPLOYEES`, `DEPARTMENTS`, `LOCATIONS`, `COUNTRIES`, `REGIONS`, and `JOBS`.
-
-The solutions below use simple subqueries where they make sense. When a subquery would make the answer too complicated for a beginner, I used a simpler SQL approach such as `JOIN`, `GROUP BY`, or `HAVING`.
 
 ## 1. Salary Analysis Using Subqueries
 
